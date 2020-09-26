@@ -1,3 +1,6 @@
+This is not working with latest GRIN slates anymore !!! 
+pull-requests are welcome for changes 
+
 GRIN multi-wallet scripts
 =========================
 
